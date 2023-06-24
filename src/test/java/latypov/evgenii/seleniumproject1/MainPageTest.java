@@ -22,6 +22,10 @@ public class MainPageTest {
         SelenideLogger.addListener("allure", new AllureSelenide());
     }
 
+    /////////////////////
+    //some nonsense
+    //TODO
+
     @BeforeEach
     public void setUp() {
         // Fix the issue https://github.com/SeleniumHQ/selenium/issues/11750
