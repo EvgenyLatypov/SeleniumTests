@@ -22,8 +22,7 @@ public class MainPageTest {
         SelenideLogger.addListener("allure", new AllureSelenide());
     }
 
-    /////////////////////
-    //some nonsense
+    /////some nonsense/////
     //TODO
 
     @BeforeEach
